@@ -5,7 +5,17 @@ Hi there! I'm Esdras Brutus, a software engineer based in the East Coast. I'm a 
 ## Technologies
 
 For this portfolio, I used the following technologies:
-React, React Router, Redux, Node.js, Express, MongoDB, and Mongoose.
+
+Front-end:
+React 
+React Router 
+Redux
+
+Backend:
+Node.js 
+Express 
+MongoDB 
+Mongoose
 
 
 ## Links
