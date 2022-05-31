@@ -8,16 +8,14 @@ Hi there! I'm Esdras Brutus, a software engineer based in the East Coast. I'm a 
 
 For this portfolio, I used the following technologies:
 
+
 Front-end:
 React 
 React Router 
 Redux
 
 Backend:
-Node.js 
-Express 
-MongoDB 
-Mongoose
+Sanity 
 
 
 ## Links
